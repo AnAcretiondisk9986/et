@@ -1,10 +1,12 @@
-# WMU-Exam-Schedule · 期末考试时间表
+# ET · 期末考试时间表
 
 2026–2027 学年第一学期期末考试时间表，**单文件静态页面，零外部依赖**，直接双击 `index.html` 即可离线使用。
 
 ## 在线访问
 
-**https://blog.acretiondisk.top/WMU-Exam-Schedule/**
+**https://blog.acretiondisk.top/et/**
+
+> 仓库 `AnAcretiondisk9986/et`，GitHub Pages 项目路径即仓库名，因此短网址为 `/et/`。
 
 > 说明：本账号已启用用户级自定义域 `blog.acretiondisk.top`，因此 `anacreationdisk9986.github.io` 下的默认域不提供服务（博客站点与其它项目仓库同样如此），访问请使用上面的自定义域链接。
 
