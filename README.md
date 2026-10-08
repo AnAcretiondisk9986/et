@@ -4,8 +4,9 @@
 
 ## 在线访问
 
-- 自定义域：https://blog.acretiondisk.top/WMU-Exam-Schedule/
-- 默认域：https://anacreationdisk9986.github.io/WMU-Exam-Schedule/
+**https://blog.acretiondisk.top/WMU-Exam-Schedule/**
+
+> 说明：本账号已启用用户级自定义域 `blog.acretiondisk.top`，因此 `anacreationdisk9986.github.io` 下的默认域不提供服务（博客站点与其它项目仓库同样如此），访问请使用上面的自定义域链接。
 
 ## 功能
 
